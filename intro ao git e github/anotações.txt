@@ -1,0 +1,9 @@
+link Git - https://github.com/
+Download git - https://git-scm.com/downloads
+
+[codes git inicial] 
+git clone - clonagem
+git status - status da pasta
+cd - ir para
+cd.. - voltar
+ 
