@@ -6,4 +6,8 @@ git clone - clonagem
 git status - status da pasta
 cd - ir para
 cd.. - voltar
+git add . - reconhecer pasta
+git commit - comitar pasta ( lembrar de colocar -m"" para adicionar msg clara e objetiva sobre oq é o arquivo)
+git push origin main - enviar commits para nuvem
+
  
